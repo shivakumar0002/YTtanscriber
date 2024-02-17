@@ -24,11 +24,14 @@ cd YTtanscriber
 ```
 ## Install required packages
 ```
-pip install -r requirements.txt ```
- Set up your environment variables
+pip install -r requirements.txt
+ ```
+ ## Set up your environment variables
 Create a .env file in the project root.
 ```Add your Google API key:
-GOOGLE_API_KEY=your_api_key_here ```
+GOOGLE_API_KEY=your_api_key_here
+ ```
+
 Run the application
 ```
 streamlit run app.py ```
