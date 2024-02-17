@@ -28,13 +28,13 @@ pip install -r requirements.txt
  ```
  ## Set up your environment variables
 Create a .env file in the project root.
-```Add your Google API key:
-GOOGLE_API_KEY=your_api_key_here
+```Add your Google API key:GOOGLE_API_KEY=your_api_key_here
  ```
 
-Run the application
+## Run the application
 ```
-streamlit run app.py ```
+streamlit run app.py
+```
 
 ## Usage
 
@@ -44,4 +44,4 @@ Enter the YouTube video link in the input field.
 Click the "Get Detailed Notes" button to generate and display the notes.
 Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+## Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
