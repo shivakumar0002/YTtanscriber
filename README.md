@@ -3,10 +3,14 @@
 The "YouTube Transcript to Detailed Notes Converter" is an innovative tool designed to transform YouTube video transcripts into concise, easy-to-read notes. Utilizing the power of AI, this application simplifies the process of extracting key information from videos, making learning and information gathering efficient and enjoyable.
 
 ## Built With
-## Python: For the backend logic and AI integration.
-## Streamlit: To create a user-friendly web interface.
-## Google Generative AI: For generating summaries from the transcript text.
-## YouTube Transcript API: To fetch transcripts directly from YouTube videos. 
+## Python: 
+For the backend logic and AI integration.
+## Streamlit: 
+To create a user-friendly web interface.
+## Google Generative AI: 
+For generating summaries from the transcript text.
+## YouTube Transcript API: 
+To fetch transcripts directly from YouTube videos. 
 
 ## Getting Started
 
